@@ -5,3 +5,4 @@ while [[ i -lt 3000 ]]; do
 	git commit -m "${i}"
 	i++
 done
+git push
